@@ -9,9 +9,9 @@ Non-invasive brain stimulation (NIBS) techniques have the potential to demonstra
 
 https://osf.io/bce7u
 
-### Stage 2 under review at PCI-RR
+### Stage 2 positively recommended by PCI-RR
 
-https://www.biorxiv.org/content/10.1101/2025.03.18.643903v1
+https://doi.org/10.24072/pci.rr.101017
 
 ### Data available on OSF
 
